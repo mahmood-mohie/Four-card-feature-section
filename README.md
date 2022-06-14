@@ -25,14 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot/Screenshot-3.png)
-![](./Screenshot/Screenshot-2.png)
 ![](./Screenshot/Screenshot-1.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/fourcardfeaturesection-aSoRyqHipu)
+- Live Site URL: [Add live site URL here](https://mahmood-mohie.github.io/Four-card-feature-section/)
 
 ## My process
 
